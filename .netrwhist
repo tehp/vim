@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/maccraig'
+let g:netrw_dirhist_2='/Users/maccraig/Documents/semester4/4981'
+let g:netrw_dirhist_3='/Users/maccraig/Documents/semester4'
+let g:netrw_dirhist_4='/Users/maccraig/Documents'
+let g:netrw_dirhist_5='/Users/maccraig/Documents/engine'
+let g:netrw_dirhist_6='/Users/maccraig/Documents/engine/src'
+let g:netrw_dirhist_7='/Users/maccraig/Documents/engine'
+let g:netrw_dirhist_8='/Users/maccraig/Documents/engine/src'
+let g:netrw_dirhist_9='/Users/maccraig/Documents/engine'
